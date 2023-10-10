@@ -1,0 +1,14 @@
+C:\Users\f26xc0\source\repos\ifsame\ifsame\bin\Debug\net6.0\ifsame.exe
+C:\Users\f26xc0\source\repos\ifsame\ifsame\bin\Debug\net6.0\ifsame.deps.json
+C:\Users\f26xc0\source\repos\ifsame\ifsame\bin\Debug\net6.0\ifsame.runtimeconfig.json
+C:\Users\f26xc0\source\repos\ifsame\ifsame\bin\Debug\net6.0\ifsame.dll
+C:\Users\f26xc0\source\repos\ifsame\ifsame\bin\Debug\net6.0\ifsame.pdb
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.AssemblyInfoInputs.cache
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.AssemblyInfo.cs
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.dll
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\refint\ifsame.dll
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.pdb
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ifsame.genruntimeconfig.cache
+C:\Users\f26xc0\source\repos\ifsame\ifsame\obj\Debug\net6.0\ref\ifsame.dll
